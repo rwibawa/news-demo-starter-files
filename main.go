@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/freshman-tech/news-demo-starter-files/news"
 	"github.com/joho/godotenv"
+	"github.com/rwibawa/news-demo-starter-files/news"
 )
 
 var newsapi *news.Client
