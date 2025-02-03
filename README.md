@@ -18,6 +18,7 @@ Open [localhost:3000](http://localhost:3000)
 ## 2. Add a module
 ```sh
 $ go get github.com/joho/godotenv
+$ go get github.com/rwibawa/news-demo-starter-files/news
 ```
 
 ## 3. Automatically restarting the server
