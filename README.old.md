@@ -3,6 +3,7 @@ learn golang
 
 Reference:
 * [web development with go](https://freshman.tech/web-development-with-go/)
+* [JSON-to-Go](https://mholt.github.io/json-to-go/)
 
 ## 1. Setup
 ```sh
